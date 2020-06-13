@@ -1,5 +1,11 @@
 # ToDoList-VueJS
 
+Run 'npm install' to install all dependencies.
+
+Run 'npm run serve' to start the local dev server.
+
+<hr>
+
 The main aim of this front-end-only project is to explore VueJS and its functionalities.
 
 The application follows the component architecture and the Single-Page Web Application concept.
